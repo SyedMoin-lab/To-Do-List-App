@@ -31,7 +31,7 @@ This is a simple web application for managing your tasks - a Todo list! Built us
 
 ## Demo
 
-[Link to live demo](#) - Provide a link to a live demo if available.
+[Link to live demo](https://syedmoin-lab.github.io/To-Do-List-App/) - Provide a link to a live demo if available.
 
 ## Contributing
 
